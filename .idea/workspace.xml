@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f6d403cc-68b3-4d70-9342-4fbbf97bd0dd" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/__init__.py" afterPath="$PROJECT_DIR$/__init__.py" />
     </list>
     <ignored path="OEI_RigFramework.iws" />
     <ignored path=".idea/workspace.xml" />
