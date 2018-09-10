@@ -11,11 +11,4 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.6.5 (C:\Python3\python.exe)" project-jdk-type="Python SDK" />
-  <component name="PyConsoleOptionsProvider">
-    <option name="myPythonConsoleState">
-      <console-settings sdk-home="C:\Program Files (x86)\IronPython 2.7\ipy.exe">
-        <option name="mySdkHome" value="C:\Program Files (x86)\IronPython 2.7\ipy.exe" />
-      </console-settings>
-    </option>
-  </component>
 </project>
