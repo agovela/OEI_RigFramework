@@ -1,5 +1,2 @@
 
-import lib
-
-
-
+print("modules init file")
