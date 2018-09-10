@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file:$PROJECT_DIR$/../../../../../../../..//$PROJECT_DIR$/.idea/OEI_RigFramework.iml" filepath="$PROJECT_DIR$/.idea/OEI_RigFramework.iml" />
+      <module fileurl="file:$PROJECT_DIR$/../../../../../../../../////newcastle/tools/SDK/Maya/Common/Scripts/Python/OEI_RigFramework/.idea/OEI_RigFramework.iml" filepath="///newcastle/tools/SDK/Maya/Common/Scripts/Python/OEI_RigFramework/.idea/OEI_RigFramework.iml" />
     </modules>
   </component>
 </project>
